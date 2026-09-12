@@ -1,5 +1,6 @@
 # Nitro V Turbo Fix
 
+
 A fix/mod for **Acer Nitro V** running **NitroSense 5.1.xx**.
 
 > ⚠️ **Recommended:** Use this with **NitroSense 5.1.xx**.
@@ -45,3 +46,7 @@ If you test the fix on a different NitroSense version or Nitro V model, feel fre
 **NitroSense 5.1.x.x • Tested on 
 ANV15-51
 ANV15-52**
+
+
+⚠️ FOR VISUAL ONLY LAST PEFORMACE MODE APPLIED WILL BE IN ACTION
+⚠️ FANS WORK ; BALANCE MODE 5k ; PERF MODE 6k ; TURBO 7k
