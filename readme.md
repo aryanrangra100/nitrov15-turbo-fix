@@ -21,10 +21,7 @@ These are the devices on which the fix has been tested successfully.
 
 ## 🎥 Tutorial
 
-<video controls width="800">
-  <source src="https://github.com/aryanrangra100/nitrov15-turbo-fix/raw/refs/heads/main/toturial.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="https://github.com/aryanrangra100/nitrov15-turbo-fix/raw/refs/heads/main/toturial.mp4" width="800" controls></video>
 
 ## 📥 Download
 
