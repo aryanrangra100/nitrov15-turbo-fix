@@ -20,7 +20,7 @@ These are the devices on which the fix has been tested successfully.
 
 ## 🎥 Tutorial
 
-[**▶️ Watch the Installation Tutorial →**](https://github.com/aryanrangra100/nitrov15-turbo-fix/blob/86502e12bd8d63127ff0e9e8b01d551b0dca0bd7/toturial.mp4)
+[**▶️ Watch the Installation Tutorial →**](https://raw.githubusercontent.com/aryanrangra100/nitrov15-turbo-fix/86502e12bd8d63127ff0e9e8b01d551b0dca0bd7/toturial.mp4)
 
 > The tutorial video is included in the repository as `toturial.mp4`.
 
