@@ -18,13 +18,13 @@ A fix/mod for **Acer Nitro V** laptops running **NitroSense 5.1.x.x**.
 
 These are the devices on which the fix has been tested successfully.
 
+
 ## 🎥 Tutorial
 
-Watch the tutorial below to see how to install and use the fix:
-
-https://github.com/aryanrangra100/nitrov15-turbo-fix/blob/main/toturial.mp4
-
-> **Tip:** On GitHub, the MP4 should appear as a playable video directly on the file page.
+<video controls width="800">
+  <source src="https://github.com/aryanrangra100/nitrov15-turbo-fix/raw/refs/heads/main/toturial.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 📥 Download
 
