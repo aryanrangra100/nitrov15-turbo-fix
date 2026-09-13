@@ -18,10 +18,11 @@ A fix/mod for **Acer Nitro V** laptops running **NitroSense 5.1.x.x**.
 
 These are the devices on which the fix has been tested successfully.
 
-
 ## 🎥 Tutorial
 
-[**Tutorial →**]([https://github.com/aryanrangra100/nitrov15-turbo-fix/releases/tag/release](https://github.com/aryanrangra100/nitrov15-turbo-fix/blob/86502e12bd8d63127ff0e9e8b01d551b0dca0bd7/toturial.mp4))
+[**▶️ Watch the Installation Tutorial →**](https://github.com/aryanrangra100/nitrov15-turbo-fix/blob/86502e12bd8d63127ff0e9e8b01d551b0dca0bd7/toturial.mp4)
+
+> The tutorial video is included in the repository as `toturial.mp4`.
 
 ## 📥 Download
 
@@ -39,14 +40,14 @@ The files are also available through the project's Telegram channel:
 * Tested on **NitroSense v5.1.385**.
 * Other NitroSense versions have **not been tested**.
 * Other Acer Nitro V models may work, but they have **not been tested**.
-* **Back up the original NitroSense files before applying the fix.**
-* This modification changes the behavior/appearance of NitroSense and should be used at your own risk.
+* **Back up the original NitroSense files before making any changes.**
+* Use this modification at your own risk.
 
 ## ⚡ Performance Mode & Fan Behavior
 
 > ⚠️ **Important:** The Turbo/Performance modes shown by the modified NitroSense interface are **visual only**. The **last actual performance mode applied** will remain in effect.
 
-### Fan behavior
+### Fan Behavior
 
 | Mode        | Fan Speed |
 | ----------- | --------: |
@@ -74,11 +75,12 @@ When reporting compatibility, please include your **NitroSense version** and **l
 ### Nitro V Turbo Fix
 
 **NitroSense 5.1.x.x**
+
 **Tested on:**
 
 * ANV15-51
 * ANV15-52
 
-⚠️ **Visual mode only — the last actual performance mode applied remains in effect.**
+> ⚠️ **Visual mode only:** The last actual performance mode applied remains in effect.
 
-⚠️ **Fan behavior:** Auto → Automatic · Balance → ~5K RPM · Performance → ~6K RPM · Turbo → ~7K RPM
+> ⚠️ **Fan behavior:** Auto → Automatic · Balance → ~5K RPM · Performance → ~6K RPM · Turbo → ~7K RPM
