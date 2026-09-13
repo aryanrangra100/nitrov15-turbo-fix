@@ -21,11 +21,7 @@ These are the devices on which the fix has been tested successfully.
 
 ## 📥 Download
 
-The files are hosted on Telegram because of **GitHub's file-size limitations**.
-
-### 🔗 Telegram
-
-**[Download / Get the files on Telegram →](https://t.me/nitrovturbofix)**
+**[Download / Get the files on Releases →]([https://t.me/nitrovturbofix](https://github.com/aryanrangra100/nitrov15-turbo-fix/releases/tag/release))**
 
 ## ⚠️ Notes
 
