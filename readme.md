@@ -21,7 +21,7 @@ These are the devices on which the fix has been tested successfully.
 
 ## 🎥 Tutorial
 
-[<video src="https://github.com/aryanrangra100/nitrov15-turbo-fix/raw/e61c2fc519b5acdfc8ae29bf12072532442f8e0b/toturial.mp4" width="800" controls></video>](https://github.com/aryanrangra100/nitrov15-turbo-fix/raw/ea913f0c06ba7c63eb2863fed44b1af9efaa3763/toturial.mp4)
+[**Tutorial →**]([https://github.com/aryanrangra100/nitrov15-turbo-fix/releases/tag/release](https://github.com/aryanrangra100/nitrov15-turbo-fix/blob/86502e12bd8d63127ff0e9e8b01d551b0dca0bd7/toturial.mp4))
 
 ## 📥 Download
 
